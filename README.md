@@ -3,7 +3,7 @@
 
 <h2>👨‍💻 Selenium Webdriver Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+- <b>Automation Test of UI</b>
   - [Practicing handling multiple windows]()
   - [Cross browser testing](https://github.com/Anano2023/Anano2023.git)
 
