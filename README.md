@@ -9,7 +9,7 @@
 
 <h2>📃 Certifications</h2>
 
-- [CERTIFICATE OF FRONT-END DEVELOPER COURSE](https://drive.google.com/drive/u/1/my-drive)
+- [CERTIFICATE OF FRONT-END DEVELOPER COURSE](https://drive.google.com/file/d/1M_6IEqi7prd0dTEtwQeY4EXlI_1bydzQ/view)
 - THE COMPLETE JAVASCRIPT COURSE 2022: FROM ZERO TO EXPERT
 
 <h2> 🤳 Connect with me:</h2>
